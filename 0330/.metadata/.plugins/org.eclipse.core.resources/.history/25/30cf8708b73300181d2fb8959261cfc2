@@ -1,0 +1,20 @@
+package p13;
+
+public class Exam4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int A = 0;
+		int B = 0;
+		
+		for(int i = 1; i < 9;i++){
+			A=i;
+			B=i;
+			if(A*10 + B*1 == 99 && B*10 + A*1 == 99){
+				System.out.println(A+B);
+				break;
+			}
+		}
+	}
+
+}

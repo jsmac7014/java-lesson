@@ -1,0 +1,6 @@
+package p14;
+
+public class Exam5 {
+	int A = 0;
+	int B = 0;
+}

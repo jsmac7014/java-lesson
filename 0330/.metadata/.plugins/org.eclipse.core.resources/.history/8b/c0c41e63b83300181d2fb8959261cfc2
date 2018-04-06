@@ -1,0 +1,17 @@
+package p13;
+
+public class Exam4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int A;
+		int B;
+		for(A=1; A<9; A++){
+			for(B=1; B<9; B++){
+				if(A*10+B*1)
+			}
+		
+		}
+	}
+
+}
