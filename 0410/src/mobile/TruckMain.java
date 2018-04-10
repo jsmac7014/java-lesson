@@ -32,11 +32,19 @@ class Car{
 		this.velocity = velocity;
 	}
 	
-	void start(){}
-	void stop(){}
+	void start(){
+		System.out.println("Start");
+	}
+	void stop(){
+		System.out.println("Stop");
+	}
 	
-	void speedUp(){}
-	void speedDown(){}
+	void speedUp(){
+		System.out.println("Up");
+	}
+	void speedDown(){
+		System.out.println("Down");
+	}
 	void nowSpeed(){}
 	
 }
